@@ -1,18 +1,18 @@
-Hi!
-This repository contains all the tasks I completed as part of the **Cognifyz Python Development Internship**.
+# Cognifyz Python Development Internship
 
-As part of the internship requirement, I chose to complete **Level 1 and Level 2**, covering both basic and slightly advanced Python concepts.
+This repository contains all the tasks I completed as part of the **Cognifyz Python Development Internship**.  
+I successfully completed **Level 1 and Level 2**, covering both fundamental and slightly advanced Python concepts.
 
 ---
 
 ## 📌 What I Completed
-
-✔ **Level 1 – Fundamentals of Python**  
-✔ **Level 2 – Problem Solving & Logic Building**
+- ✔ **Level 1 – Fundamentals of Python**  
+- ✔ **Level 2 – Problem Solving & Logic Building**
 
 ---
 
 ## 📂 Project Structure
+```text
 cognifyz-python-internship/
 │
 ├── level_1/
@@ -31,6 +31,7 @@ cognifyz-python-internship/
 │   └── sample.txt
 │
 └── README.md
+
 
 
 ---
