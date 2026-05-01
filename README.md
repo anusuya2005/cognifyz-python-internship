@@ -1,4 +1,4 @@
- Cognifyz Python Internship
+# 🚀 Cognifyz Python Internship
 
 Hi! 👋  
 This repository contains all the tasks I completed as part of the **Cognifyz Python Development Internship**.
