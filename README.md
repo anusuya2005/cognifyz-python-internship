@@ -12,7 +12,7 @@ I successfully completed **Level 1 and Level 2**, covering both fundamental and 
 ---
 
 ## 📂 Project Structure
-```text
+```
 cognifyz-python-internship/
 │
 ├── level_1/
@@ -31,7 +31,7 @@ cognifyz-python-internship/
 │   └── sample.txt
 │
 └── README.md
-
+```
 
 
 ---
