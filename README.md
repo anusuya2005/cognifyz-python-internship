@@ -16,21 +16,22 @@ As part of the internship requirement, I chose to complete **Level 1 and Level 2
 cognifyz-python-internship/
 │
 ├── level_1/
-│ ├── task1_string_reversal.py
-│ ├── task2_temperature_conversion.py
-│ ├── task3_email_validator.py
-│ ├── task4_calculator.py
-│ └── task5_palindrome_checker.py
+│   ├── task1_string_reversal.py
+│   ├── task2_temperature_conversion.py
+│   ├── task3_email_validator.py
+│   ├── task4_calculator.py
+│   └── task5_palindrome_checker.py
 │
 ├── level_2/
-│ ├── task1_guessing_game.py
-│ ├── task2_number_guesser.py
-│ ├── task3_password_strength_checker.py
-│ ├── task4_fibonacci_sequence.py
-│ ├── task5_file_manipulation.py
-│ └── sample.txt
+│   ├── task1_guessing_game.py
+│   ├── task2_number_guesser.py
+│   ├── task3_password_strength_checker.py
+│   ├── task4_fibonacci_sequence.py
+│   ├── task5_file_manipulation.py
+│   └── sample.txt
 │
 └── README.md
+
 
 ---
 
